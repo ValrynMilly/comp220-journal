@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{balci}
+M.~Balci and H.~Foroosh.
+\newblock Real-time 3d fire simulation using a spring-mass model.
+\newblock {\em 2006 12th International Multi-Media Modelling Conference}.
+
+\bibitem{dhaliwal2008}
+Jagjeet~S. Dhaliwal.
+\newblock Real-time water simulation.
+\newblock 2008.
+
+\bibitem{hinks}
+Tommy Hinks.
+\newblock Procedural smoke particle system with opengl 2.0.
+\newblock Technical report, Linkoping, Sweeden.
+
+\bibitem{dekruijf}
+Marc~De Kruijf.
+\newblock Firestarter – a real-time fire simulator.
+\newblock Technical report, Wisconsin.
+
+\bibitem{mcguire2006}
+Morgan Mcguire.
+\newblock A real-time, controllable simulator for plausible smoke.
+\newblock Technical report, Rhode Island, 2006.
+
+\bibitem{solenthaler2011}
+Barbara Solenthaler, Peter Bucher, Nuttapong Chentanez, Matthias Müller, and
+  Markus Gross.
+\newblock Workshop on virtual reality interaction and physical simulation
+  vriphys (2011) sph based shallow water simulation.
+\newblock Technical report, ETH Zurich, 2011.
+
+\end{thebibliography}
